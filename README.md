@@ -46,3 +46,9 @@ Proyek ini bertujuan untuk mengembangkan model deep learning berbasis ResNet50 d
 ├── cnn_lstm.ipynb   👈 notebook utama
 ├── saved_model/     👈 folder hasil model
 ```
+
+## Referensi Jurnal
+
+| Judul                                                                                           | Link                                                                                          |
+| ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Klasifikasi Data Penderita Skizofrenia Menggunakan CNN-LSTM dan CNN-GRU pada Data Sinyal EEG 2D | [🔗 Link PDF](https://pdfs.semanticscholar.org/2c86/e587981a81914d3febc824b9adb14c1cd96f.pdf) |
