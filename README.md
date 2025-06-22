@@ -33,6 +33,14 @@ Proyek ini bertujuan untuk mengembangkan model deep learning berbasis ResNet50 d
 
 ---
 
+## Metodologi Penelitian
+
+<p align="center">
+  <img src="https://drive.google.com/thumbnail?id=1NVaFObbuG4MpLJ1v_1fYJ2ZNV0RGA_zk" alt="Diagram Kerangka Penelitian" width="700"/>
+  <br>
+  <em>Gambar 1. Diagram Kerangka Penelitian Menggunakan <a href="https://drive.google.com/file/d/1NVaFObbuG4MpLJ1v_1fYJ2ZNV0RGA_zk/view?usp=drive_link">Draw Io</a></em>
+</p>
+
 ## 🗂️ Struktur Folder
 
 ```bash
